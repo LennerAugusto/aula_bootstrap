@@ -1,0 +1,32 @@
+body{
+	font: 20px, arial-serif;
+}
+
+#quem_somos{
+	background-color: #4682B4;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 50px;
+}
+
+#quem_somos h2{
+	color: white;
+}
+
+.container-fluid{
+	text-align: center;
+}
+
+.Parceiros{
+	background-color: #ADD8E6;
+}
+
+.Serviços{
+	text-align: center;
+
+}
+
+.bg-footer{
+	color: white;
+	background-color: black;
+}
